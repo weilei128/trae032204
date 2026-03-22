@@ -1,0 +1,12 @@
+com\shop\controller\AuthController.class
+com\shop\service\ProductService.class
+com\shop\service\UserService.class
+com\shop\service\OrderService.class
+com\shop\entity\Product.class
+com\shop\controller\UserController.class
+com\shop\entity\User.class
+com\shop\SimpleShopApplication.class
+com\shop\util\CsvUtil.class
+com\shop\config\DataConfig.class
+com\shop\controller\AdminController.class
+com\shop\entity\Order.class

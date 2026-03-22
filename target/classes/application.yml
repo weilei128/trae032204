@@ -1,0 +1,19 @@
+server:
+  port: 10012
+
+spring:
+  application:
+    name: simple-shop
+  thymeleaf:
+    cache: false
+    prefix: classpath:/templates/
+    suffix: .html
+    encoding: UTF-8
+    mode: HTML5
+
+data:
+  csv:
+    path: ./data
+    users-file: users.csv
+    products-file: products.csv
+    orders-file: orders.csv
